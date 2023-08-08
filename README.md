@@ -1,10 +1,10 @@
-# ng-sidebar9plus
+# ngx-sidebar
 
 ⚠️　**This package is forked form deprecated package **[ng-sidebar](https://www.npmjs.com/package/ng-sidebar)** .** ⚠️
 
 ---
 
-[![NPM](https://nodei.co/npm/ng-sidebar.png?compact=true)](https://nodei.co/npm/ng-sidebar)
+[![NPM](https://nodei.co/npm/ng-sidebar.png?compact=true)](https://nodei.co/npm/ngx-sidebar)
 
 **[Demo](https://echeung.me/ng-sidebar)**
 
@@ -16,31 +16,9 @@ An Angular sidebar component.
 ## Installation
 
 ```shell
-npm install --save ng-sidebar9plus
+npm install --save ngx-sidebar
 ```
-
-### SystemJS configuration
-
-If you're using SystemJS, be sure to add the appropriate settings to your SystemJS config:
-
-```js
-const map = {
-  // ...
-  'ng-sidebar9plus': 'node_modules/ng-sidebar9plus',
-  // ...
-};
-
-const packages = {
-  // ...
-  'ng-sidebar9plus': {
-    main: 'lib/index',
-    defaultExtension: 'js'
-  },
-  // ...
-};
-```
-
-
+ 
 ## Changelog
 
 See the [releases page](https://github.com/arkon/ng-sidebar/releases) on GitHub.
