@@ -1,14 +1,14 @@
 {
-  "name": "ng-sidebar9plus",
+  "name": "@ngx-sidebar",
   "version": "12.0.0",
   "description": "Angular sidebar component 9+. Forked from https://github.com/arkon/ng-sidebar.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/igorkgg/ng-sidebar.git"
+    "url": "git+https://github.com/erikramalho/ngx-sidebar.git"
   },
-  "homepage": "https://github.com/igorkgg/ng-sidebar/blob/master/README.md",
+  "homepage": "https://github.com/erikramalho/ngx-sidebar/blob/master/README.md",
   "bugs": {
-    "url": "https://github.com/igorkgg/ng-sidebar/issues"
+    "url": "https://github.com/erikramalho/ngx-sidebar/issues"
   },
   "files": [
     "lib_commonjs/*",
